@@ -1,4 +1,4 @@
-# nuxt-movie-app
+# nuxt-tailwind-starter
 
 ## Build Setup
 
